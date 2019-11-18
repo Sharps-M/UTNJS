@@ -1,0 +1,27 @@
+/*body{
+    
+    font-family: Calibri;
+    padding: 10px 20px;
+}
+
+h1 {
+	color: #FFFFFF;
+	background-color: #ffbd33;
+	padding: 10px;
+	border-radius:0 20px;
+}
+*/
+
+.container-fluid{
+	font-family: sans-serif;
+	background-color: rgb(243, 223, 242);
+	padding: 10px 20px;
+	border-radius: 20px;
+}
+
+.lista{
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	text-align: left;
+	text-decoration: solid;
+	text-emphasis: bold;
+}
